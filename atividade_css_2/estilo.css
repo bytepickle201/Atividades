@@ -1,0 +1,58 @@
+
+body{
+
+background-image: url(giphy.gif);
+background-size: 100%;
+}
+
+h1{
+    background-color: blue;
+    border: 5px black solid;
+    border-radius: 75px;
+    text-align: center;
+    color: rgb(245, 0, 0);
+    padding: 50px;
+    font-family: 'Satisfy', cursive;
+    text-shadow: 1px 3px;
+}
+
+p{
+color: white;
+position: static;
+font-family: 'Satisfy', cursive;
+
+}
+h2{
+    color: white
+}
+img{
+    border-radius: 80%;
+}
+div {
+    text-align: center;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
